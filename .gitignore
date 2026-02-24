@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Static library
+*.a
+
+# macOS
+.DS_Store
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Debug
+*.dSYM/
+
+# Test binaries
+a.out
+test
+main
